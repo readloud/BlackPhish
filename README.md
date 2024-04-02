@@ -1,6 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-<img src="https://github.com/iinc0gnit0/BlackPhish/blob/master/img/blackphish.png" align="middle" width="1000"></img>
+<img src="https://github.com/iinc0gnit0/BlackPhish/blob/master/img/blackphish.png" align="middle" width="100"></img>
 
 <h1 align="center">
 
