@@ -28,7 +28,7 @@
         "yargs": "13.3.0"
     },
     "devDependencies": {
-        "mocha": "~10.4.0"
+        "mocha": "~10.8.2"
     },
     "engines": {
         "node": ">=8.3.0"
